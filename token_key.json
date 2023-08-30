@@ -1,5 +1,5 @@
 {"setting":{"check_time":1000,"token_function":"on"},
  "device":{
-  "123":{"token_key":"12345","time_limit":"2023/12/25 22:11:11"}
+  "aaa":{"token_key":"12345","time_limit":"2023/12/25 22:11:11"}
  }
 }

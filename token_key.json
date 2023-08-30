@@ -1,5 +1,5 @@
 {"setting":{"check_time":1000,"token_function":"on"},
  "device":{
-  "aaa":{"token_key":"qwert","time_limit":"2023/12/25 22:11:11"}
+  "aaa":{"token_key":"asdfg","time_limit":"2023/12/25 22:11:11"}
  }
 }

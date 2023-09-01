@@ -1,4 +1,4 @@
-{"setting":{"check_time":1000,"token_function":"on"},
+{"setting":{"check_time":1000,"token_function":"off"},
  "device":{
   "47bce5c74f589f4867dbd57e9ca9f808":{"token_key":"40b7cf4a55014e185813e0644502ea9","time_limit":"2023/9/1 17:00:00"}
  }

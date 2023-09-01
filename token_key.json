@@ -1,4 +1,4 @@
-{"setting":{"check_time":1000,"token_function":"on"},
+{"setting":{"check_time":1000,"token_function":"off"},
  "device":{
   "aaa":{"token_key":"asdfg","time_limit":"2023/9/1 17:00:00"}
  }
